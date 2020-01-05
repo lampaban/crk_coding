@@ -1,4 +1,8 @@
 package crkCode.chapter1;
+//******************************************
+//Implement an algorithm that determine if a string has unique characters
+//what if you cannot use additional data structures
+//******************************************
 
 import java.util.ArrayList;
 import java.util.List;
