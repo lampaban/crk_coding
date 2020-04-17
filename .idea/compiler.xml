@@ -9,8 +9,5 @@
         <module name="crkCode" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="crkCode" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
